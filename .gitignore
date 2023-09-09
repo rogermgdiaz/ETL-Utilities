@@ -165,3 +165,8 @@ docker-compose.yml
 archivos_fragmentados/
 .vscode/
 postgres_public_trades.sql
+ETL_importacion_datos.ipynb
+country_data.json
+hs_codes_67d0ca02-86f0-4829-8568-389ab67a38e5.csv
+querys_redshift.sql
+rootkey.csv
